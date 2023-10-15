@@ -1,10 +1,9 @@
 # Metrica Vox Machina
 > **Gold Standard Computational Linguistics Evaluation for AI**
 
-**Note**: While this project entailed a robust implementation phase, it was time and scope limited as the simultaneous writing of 26,000+ words was crucial for the fulfillment of the Master of Science (Computer Science) degree requirements.
+**Note**: While the system is confirmed to meet 98% of requirements with over 230 bug fixes, it was time and scope limited as 26,000+ words had to be simultaeneously authored for the accompanying thesis, crucial for the fulfillment of the Master of Science (Computer Science) degree requirements.
 
 For university submission and mark tracing purposes, the code has been condensed into a single file. Originally, the project's `tkinter` functionality and package-based logic spanned across 20+ files. A comprehensive, web-based version of Metrica Vox Machina is slated for release. The full project code will be uploaded after mark ratification in November 2023.
-
 
 🌍 **Location**: Birmingham, UK  
 🏛 **Institution**: University of Birmingham  
