@@ -1,5 +1,6 @@
 # Metrica Vox Machina
 > Gold Standard Computational Linguistics Evaluation for AI
+> This was a time and scope limited project, as 26,000+ words were written simultaenously to system implementation, in order to meet the Master of Science (Computer Science) academic requirements.
 
 This code has been simplified into a single file for mark tracing reasons (and university submission limitations). Originally, all tkinter functionality was separated from package-based logic across 20+ files. Full release of Metrica Vox Machina will be in web-based form. Project code to be uploaded after mark ratification (Nov, 2023).
 
