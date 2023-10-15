@@ -1,7 +1,7 @@
 # Metrica Vox Machina
 > Gold Standard Computational Linguistics Evaluation for AI
 
-Note: This code has been simplified into a single file for mark tracing reasons (and university submission limitations). Originally, all tkinter functionality was separated from package-based logic across 20+ files. Full release of Metrica Vox Machina will be in web-based form. Project code to be uploaded after mark ratification (Nov, 2023).
+This code has been simplified into a single file for mark tracing reasons (and university submission limitations). Originally, all tkinter functionality was separated from package-based logic across 20+ files. Full release of Metrica Vox Machina will be in web-based form. Project code to be uploaded after mark ratification (Nov, 2023).
 
 🌍 **Location**: Birmingham, UK  
 🏛 **Institution**: University of Birmingham  
