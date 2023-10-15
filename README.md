@@ -5,7 +5,7 @@ Full release of Metrica Vox Machina will be in web-based form. Project code to b
 
 🌍 **Location**: Birmingham, UK  
 🏛 **Institution**: University of Birmingham  
-📅 **Duration**: Sep 2022 - Sep 2023
+📅 **Duration**: May 2022 - Sep 2023
 
 ## 📌 Overview
 The recent surge in the adoption of large language models, especially post-GPT-3, underscores the need for standardized, user-friendly evaluation tools. "Metrica Vox Machina" rises to this challenge, offering a suite of evaluative tools designed to rigorously assess the performance of these language models across varied domains and functionalities.
