@@ -3,7 +3,7 @@
 
 **Note**: While the system is confirmed to meet 100% of focus-group led requirements, it was time and scope limited as 26,000+ words had to be simultaeneously authored for the accompanying thesis, crucial for the fulfillment of the Master of Science (Computer Science) degree schema.
 
-For university submission and mark tracing purposes, the code has been condensed into a single file. Originally, the project's `tkinter` functionality and package-based logic spanned across 20+ files. A comprehensive, web-based version of Metrica Vox Machina is slated for release. The full project code will be uploaded after mark ratification in November 2023.
+For university submission and mark tracing purposes, the code has been condensed into a single file. Originally, the project's `tkinter` functionality and package-based logic spanned across 20+ files. A comprehensive, web-based version of Metrica Vox Machina is slated for release. The full project code will be uploaded after mark ratification.
 
 🌍 **Location**: Birmingham, UK  
 🏛 **Institution**: University of Birmingham  
