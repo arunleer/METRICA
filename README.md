@@ -32,7 +32,7 @@ Continuous evaluations indicate that the system adeptly meets its design objecti
 ## 🙏 Acknowledgements
 Gratitude to:
 - **Dr. Jizheng Wan**, my project supervisor, for his astute career guidance and willingness to enable free exploration into the NLP domain. Further projects are planned in NLP thanks to his general stewardship.
-- **Dr. Rajesh Chitnis**, my project inspector, for taking his time to receive the demonstration and emphasising rigorous documentation to "do justice", in terms of academic awardings, to the project.
+- **Dr. Rajesh Chitnis**, my project inspector, for allocating his time to receive the demonstration and emphasising rigorous documentation to "do justice" (in terms of academic awardings) to the project.
 - The **43 focus group members** whose contributions were instrumental in refining the system within the limited 10 weeks for implementation.
 
 ---
