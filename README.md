@@ -29,8 +29,8 @@ Continuous evaluations indicate that the system adeptly meets its design objecti
 
 ## 🙏 Acknowledgements
 Gratitude to:
-- **Dr. Jizheng Wan** for his invaluable guidance and mentorship.
-- **Dr. Rajesh Chitnis** for his insights and emphasis on rigorous documentation.
+- **Dr. Jizheng Wan**, my project supervisor, for his invaluable guidance and mentorship.
+- **Dr. Rajesh Chitnis**, my project inspector, for taking his time to receive the demonstration and emphasising rigorous documentation to "do justice" to the project.
 - The **43 focus group members** whose contributions were instrumental in refining the system within the limited 10 weeks for implementation.
 
 ---
