@@ -14,7 +14,7 @@ The recent surge in the adoption of large language models, especially post-GPT-3
 The modern landscape of language models, each with its unique specializations, demands a robust evaluative system with a standardized approach. This study dives deep into the creation and utility of "Metrica Vox Machina", including:
 - **Bidirectional Machine Translation**: Supporting 50 languages.
 - **Human Evaluation Tool**: With JSON-validating dataset management.
-- **Contextual Embedding Tool**: Enhanced with smart CUDA core threading and data validation.
+- **Contextual Embedding Tool**: Enhanced with CUDA core threading and data validation.
 
 Continuous evaluations indicate that the system adeptly meets its design objectives.
 
