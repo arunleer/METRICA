@@ -1,7 +1,8 @@
 # Metrica Vox Machina
-> Custom Evaluative Performance Analysis for Modern AI
+> Gold Standard Computational Linguistics Evaluation for AI
 
 Full release of Metrica Vox Machina will be in web-based form. Project code to be uploaded after mark ratification (Nov, 2023).
+Note: This code has been simplified into a single file for mark tracing reasons (and university submission limitations). Originally, all tkinter functionality was separated from package-based logic across 20+ files.
 
 🌍 **Location**: Birmingham, UK  
 🏛 **Institution**: University of Birmingham  
@@ -22,15 +23,15 @@ Continuous evaluations indicate that the system adeptly meets its design objecti
 `Machine Translation` `Metrics` `Human Evaluation` `Contextual Embedding` `Large Language Models` `AI` `Benchmarking` `Natural Language Processing` `Computational Linguistics` `AGILE` `Confidence Interval` `Focus Group` `User-Friendly` `Decision Making` `Precision` `Recall` `F1` `QA` `Python`.
 
 ## 🏆 Achievements
-- 💻 Authored **2000+ lines** of Python code, integrating **41+ libraries**.
+- 💻 Authored **3000+ lines** of Python code, integrating **41+ libraries**.
 - 🌐 Developed a **50-language bi-directional Machine Translation system** optimized with BLEU, ROUGE, METEOR, and BERT.
 - 🎮 Leveraged gamification techniques, resulting in a **500% surge** in user-initiated data entries.
 - 🔄 Conducted **10 AGILE testing phases** with 42 focus group participants, meeting **100%** of **90+ requirements**.
 
 ## 🙏 Acknowledgements
-Heartfelt gratitude to:
+Gratitude to:
 - **Dr. Jizheng Wan** for his invaluable guidance and mentorship.
 - **Dr. Rajesh Chitnis** for his insights and emphasis on rigorous documentation.
-- The **focus group members** whose contributions were instrumental in refining the system.
+- The **43 focus group members** whose contributions were instrumental in refining the system within the limited 10 weeks for implementation.
 
 ---
