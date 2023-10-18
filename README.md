@@ -13,12 +13,20 @@ For university submission and mark tracing purposes, the code has been condensed
 The recent surge in the adoption of large language models, especially post-GPT-3, underscores the need for standardized, user-friendly evaluation tools. "Metrica Vox Machina" rises to this challenge, offering a suite of evaluative tools designed to rigorously assess the performance of these language models across varied chat-based domains and functionalities.
 
 ## 📃 Abstract
-The modern landscape of language models, each with its unique specializations, demands a robust evaluative system with a standardized approach. This study dives deep into the creation and utility of "Metrica Vox Machina", including:
-- **Bidirectional Machine Translation**: Supporting 50 languages.
-- **Human Evaluation Tool**: With JSON-validating dataset management.
-- **Contextual Embedding Tool**: Enhanced with CUDA core threading and data validation.
-
-Continuous evaluations indicate that the system adeptly meets its design objectives.
+The recent meteoric rise in adopƟon of large language models, parƟcularly since the launch of GPT-3, 
+have catalysed the creaƟon of a spectrum of compeƟng models each boasƟng unique specialiƟes 
+derived from their respecƟve training corpora. With increasing heterogeneity of models contribuƟng 
+to a growing complexity for the evaluaƟon of these language models, this study addresses the 
+pronounced need for an evaluaƟve system with a standardised, user-friendly approach to tesƟng a 
+breadth of language models for cross-industrial funcƟonality as a contribuƟon to AI safety. This study 
+contains the raƟonal basis, design and implementaƟon for the LLM evaluaƟon system “Metrica Vox 
+Machina”, a tool embodying a synthesis of empirically validated and industrially deployed evaluaƟve 
+methods. Three standardised suites of evaluaƟon have been developed; firstly, a bidirecƟonal, 50-
+language supported machine translaƟon tool, secondly, a cross-comparaƟve human evaluaƟon tool 
+with a JSON-validaƟng dataset manager and finally, a contextual embedding tool with smart CUDA 
+core threading and format-specific data validaƟon. ConƟnuously evaluated weekly during and post implementation periods, the system conclusively meets and exceeds its iniƟal requirements, proving 
+to be a highly effecƟve tool for its intended incrementally designed use, the conƟnuous evaluaƟon of 
+modern AI. 
 
 ## 🗝 Keywords
 `Machine Translation` `Metrics` `Human Evaluation` `Contextual Embedding` `Large Language Models` `AI` `Benchmarking` `Natural Language Processing` `Computational Linguistics` `AGILE` `Confidence Interval` `Focus Group` `User-Friendly` `Decision Making` `Precision` `Recall` `F1` `QA` `Python`.
