@@ -1,4 +1,4 @@
-# Metrica Vox Machina
+# Metrica Vox Machina (Prototype)
 > **Gold Standard Computational Linguistics Evaluation for AI**
 
 **Note**: While the system is confirmed to meet 100% of focus-group led requirements, it was time and scope limited as 26,000+ words had to be simultaneously authored for the accompanying thesis, crucial for the fulfillment of the Master of Science (Computer Science) degree schema.
